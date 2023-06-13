@@ -68,12 +68,12 @@ Una vez creado el modelo se realiza una funcion que pueda ser consultada a trave
 ---
 ## Video.
 
-En el siguiente [enlace]  se encuentra un video expositivo del proyecto y los procesos realizados para lograr satisfacer las consultas requeridas.
+En el siguiente [enlace](https://youtu.be/k7bFVW58ENw)  se encuentra un video expositivo del proyecto y los procesos realizados para lograr satisfacer las consultas requeridas.
 
 ## Enlaces 
 <<<<<<< HEAD
 [Base de datos](https://drive.google.com/drive/folders/1TNTiiR4iUpjESXhZxgfBVi2hwYy9nLOI?usp=sharing)
-[API]
+[API] (https://movies-services.onrender.com/docs)
 =======
 - [Base de datos](https://drive.google.com/drive/folders/1TNTiiR4iUpjESXhZxgfBVi2hwYy9nLOI?usp=sharing) <br>
 - [API](https://movies-services.onrender.com/docs)
