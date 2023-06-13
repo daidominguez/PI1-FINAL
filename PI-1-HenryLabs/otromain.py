@@ -9,7 +9,7 @@ app.description="Consultas basadas en el registro de peliculas de TMDB (The Movi
 app.version="0.0.1"
 
 data_movies = pd.read_csv(r'df_API.csv', sep = ',', encoding='utf8')
-data= pd.read_csv(r'movie_list.csv', sep = ',', encoding='utf8')
+#data= pd.read_csv(r'movie_list.csv', sep = ',', encoding='utf8')
 
 @app.get('/cantidad_filmaciones_mes/{Mes}', tags=['movies'])
 async def cantidad_filmaciones_mes(Mes:str):
@@ -145,9 +145,10 @@ async def get_director(Director:str):
         peliculas['revenue_pelicula']=ganancia
         return peliculas
 
-from model import modelo
-
+#from model import modelo
+'''
 @app.get('/recomendacion/{titulo}', tags=['movies'])
 async def recomendacion(titulo:str):
     respuesta=modelo(titulo)
     return respuesta
+'''
