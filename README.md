@@ -3,11 +3,6 @@
 **Daineth Dominguez FT-11**
 
 ---
-<<<<<<< HEAD
-## Introducción
-
-=======
->>>>>>> a78e6f503241355f357d7e08a6beb8ca769b9292
 Como parte de un equipo de  **`Data Scientist`** de una start-up que provee servicios de agregación de plataformas de streaming, se llevará a cabo un modelo de ML para un sistema de recomendación de peliculas que aún no se ha puesto en marcha. 
 
 Debido a la poca madurez de los datos, se realiza primero una limpieza rapida de los mismos para llevar a cabo consultas sobre los registros a traves de una API. Luego pasamos a un análisis exploratorio de los datos (EDA) para determinar relación entre variables, determinar anomalías, y ver si hay algún patrón interesante para explorar en el proceso de ML.
@@ -70,11 +65,7 @@ Una vez creado el modelo se realiza una funcion que pueda ser consultada a trave
 
 En el siguiente [enlace](https://youtu.be/k7bFVW58ENw)  se encuentra un video expositivo del proyecto y los procesos realizados para lograr satisfacer las consultas requeridas.
 
-## Enlaces 
-<<<<<<< HEAD
-[Base de datos](https://drive.google.com/drive/folders/1TNTiiR4iUpjESXhZxgfBVi2hwYy9nLOI?usp=sharing)
-[API] (https://movies-services.onrender.com/docs)
-=======
+## Enlaces. 
+
 - [Base de datos](https://drive.google.com/drive/folders/1TNTiiR4iUpjESXhZxgfBVi2hwYy9nLOI?usp=sharing) <br>
 - [API](https://movies-services.onrender.com/docs)
->>>>>>> a78e6f503241355f357d7e08a6beb8ca769b9292
